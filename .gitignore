@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java/Maven
+target/
+*.class
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+.idea/
+*.iml
+*.iws
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
